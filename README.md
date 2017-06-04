@@ -1,2 +1,3 @@
-# Compound-Interest-Calculatot
+# Compound-Interest-Calculator
 A BITM apporach
+Program Description given in the image
